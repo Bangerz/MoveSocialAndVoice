@@ -1,0 +1,9 @@
+## Interface: 110007,120000,120001,120002
+## Title: Move Social and Voice
+## Notes: Move ChatAlertFrame (voice bubbles + Quick Join with stack). Esc > Options > AddOns, or /mvo unlock, lock, reset, config.
+## Author: Bangerz-DarkIron
+## Version: 1.0
+## LoadAfter: Blizzard_Channels
+## SavedVariablesPerCharacter: MoveSocialAndVoiceDB
+
+MoveSocialAndVoice.lua
